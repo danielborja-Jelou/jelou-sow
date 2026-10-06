@@ -1,0 +1,9 @@
+{
+  "name": "jelou-sow-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Linter y generador Word del SOW de Jelou",
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}
